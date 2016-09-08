@@ -290,7 +290,6 @@ exports.grouplist = [
 		forcewin: true,
 		declare: true,
 		modchatall: true,
-		rangeban: true,
 		makeroom: true,
 		editroom: true,
 		potd: true,
@@ -358,6 +357,7 @@ exports.grouplist = [
 		roomvoice: true,
 		forcerename: true,
 		ip: true,
+		rangeban:true
 		alts: '@u',
 		tournaments: true,
 		game: true,
