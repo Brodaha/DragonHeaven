@@ -2467,7 +2467,7 @@ exports.Formats = [
 		ruleset: ['OU'],
 		banlist: ['Damp Rock'],
 	},
-        	{
+        	{//Thanks urkerab!
 		name: "Inheritance",
 		desc: [
 			"Pok&eacute;mon may use the ability and moves of another, as long as they forfeit their own learnset.",
