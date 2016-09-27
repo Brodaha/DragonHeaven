@@ -9,7 +9,7 @@
 
 'use strict';
 // these ip ranges will be lock on sight when found on a staff member
-const BLACKLISTED_RANGES = ["208.83.7.*"];
+const BLACKLISTED_RANGES = ["208.83.7.*","116.58","72.22"];
 // this will show how strictly it will match ips
 // at 3, it will match ips XXX.XXX.XXX.* as safe ips.
 const IP_MATCH_STRICTNESS = 2;
